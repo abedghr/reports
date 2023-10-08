@@ -1,0 +1,12 @@
+Subject: schwab | Detailed Archive Statistics Report 2023-06-03 - 2023-06-03
+Body: repositoryname	docclassname	dateofevent	totalmsgs	totalsize_in_MB	
+carlsbad.branch.h.sv.schwab	MAILINGLIST	2023-06-03	1	0.00	
+executiveservices.sv.schwab	MAILINGLIST	2023-06-03	1	0.00	
+fax.advice.schwab	=EMAIL=	2023-06-03	18	0.01	
+fax.advice.schwab	MAILINGLIST	2023-06-03	39	0.02	
+fax.branch.schwab	=EMAIL=	2023-06-03	693	0.32	
+fax.branch.schwab	MAILINGLIST	2023-06-03	186	0.08	
+misc.mailouts.schwab	=EMAIL=	2023-06-03	1283400	114262.34	
+misc.mailouts.schwab	MAILINGLIST	2023-06-03	4187094	6190.42	
+schwab.dom repository	=EMAIL=	2023-06-03	24282	809.27	
+spsdenvertrading.sv.schwab	MAILINGLIST	2023-06-03	1	0.00	

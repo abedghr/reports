@@ -1,0 +1,22 @@
+Subject: 200287  -  4dd23dsad-3333-ads32-fesadsadw - MSTeams - Cloud Capture Reconciliation Report - 29/09/2023
+Body: Greetings
+
+Your Smarsh Cloud Capture daily Reconciliation report for: 29/09/2023 is given below
+
+
+Customer Name: Charles Schwab & Co., Inc.
+
+
+Date       Network        Number of messages ingested     Number of messages exported   Number of messages not exported    Number of backlog messages exported in the last 30 days    Number of messages not exported in the last 30 days
+29/09/2023         MSTeams     199       199    0      0       0
+29/09/2023         MSTeams     199       199    0      0       23
+29/09/2023         MSTeams     222       199    0      11       0
+29/09/2023         MSTeams     135       199    0      0       0
+
+
+Thank you for being a valued Smarsh cutsomer
+
+
+
+Regards,
+Smarsh Cloud Capture

@@ -1,0 +1,105 @@
+Subject: ea-schwb-production Enterprise Archive Daily Health Checks From 2023-06-19 00:00:00 To 2023-06-19 23:59:59 EDT
+Body: 
+CSV/LDIF Import Status 
+
+File Name	Date Imported	Status	Import Type	Size (KB)	Participants Created	Participants Updated	Participant Groups Created	
+
+Searches Performed 
+
+Total number of searches run: 141	
+Total number of documents returned across all searches: 170249	
+
+Security Reporting
+
+
+Users Created
+
+User ID	Time	
+
+Role Changes
+
+User ID	New Role	
+
+Number of Failed Attempts
+
+User ID	Failed Attempts	
+
+Disposition
+
+Content Source	Network	Total Number of Disposed	
+
+Ingestion Queries
+
+
+Received Count
+
+Content Source	Network	Received Count	
+exchange	journal	3765479	
+exchange	salesforce email	71992	
+exchange	mobileguard	2341	
+exchange	livehelp	1238	
+sharepointonline	sharepoint	17695	
+msteamscc	msteams	3599	
+advicesuite	advice suite	29	
+kiteworks	kiteworks	16	
+sfchatteras	salesforce chatter	13	
+
+Archived Count
+
+Content Source	Network	Archived Count	
+exchange	journal	3641157	
+exchange	salesforce email	69569	
+exchange	mobileguard	2117	
+exchange	livehelp	1238	
+sharepointonline	sharepoint	16394	
+msteamscc	msteams	3602	
+advicesuite	advice suite	18	
+sfchatteras	salesforce chatter	13	
+kiteworks	kiteworks	12	
+
+Failed Count older than 24 hours
+
+Content Source	Network	Failed Count	
+sharepointonline	sharepoint	28	
+msteamscc	msteams	5	
+
+Failed Count younger than 24 hours
+
+Content Source	Network	Failed Count	
+
+Exception Count
+
+Content Source	Network	Total Number of Exceptions	
+
+Exceptions
+
+Exceptions	Count	
+Payload size greater than 250GB 	0	
+Body Size above 60 MB 	0	
+Max single attachment exceeds 2GB 	0	
+Extracted file content above 100MB	0	
+Number of attachments exceeds 1000	0	
+Email larger than 250GB	0	
+
+Fatal Count
+
+Fatal Type 	New(1 day)	Less than 1 Week (2-7 days)	Over 1 Week (8-14 days)	Over 2 Weeks (15-21 days)	 Over 3 Weeks (22-28 days)	Over 4 Weeks (29+ days)	Total
+Fatal messages count 	0	0	0	0	0	845	845	
+
+Archived Raw Count
+
+Raw Type 	New(1 day)	Less than 1 Week (2-7 days)	Over 1 Week (8-14 days)	Over 2 Weeks (15-21 days)	 Over 3 Weeks (22-28 days)	Over 4 Weeks (29+ days)	Total
+EGW Raw EML	0	0	0	0	0	0	0	
+Alcatraz Raw XML	0	0	0	0	0	0	0	
+
+Exports
+
+
+Number of Current Exports Running - Total:0
+
+Total Number of Docs	Total Number of Successful Docs	Total Number of Failed Docs	Export Name	Creator	Created Time(EST)	End Time(EST)	Status	
+
+Number of Exports Run in Past 24 Hours:0
+
+Export Name	User ID	Output Format	Packaging Format	Start Time	End Time(EST)	Count	Size (Byte)	Status	
+ <https://u4657071.ct.sendgrid.net/wf/open?upn=7fSqXXDtwNMtdSKQXpclHeTe6K-2BRLXwBSbuCMHQjvSDoAj-2Fw0zID21wMWRFLnzL73yjXgfAvYyt8jBR1G8VRyyKDdBU-2BVq-2ByRGytgQw7k7vzt5fqSeG5ynno6hbQyubOlgWXpxGnDfpFmECdokhZ1hyESdLzmqiVOAbu-2B1E468uC78a0D0hCJM0CgNZL7DwUstlLuonxL6u0NYeA51wimLQAeGUFYFukcDCR331FLUM-3D> 

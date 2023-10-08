@@ -1,0 +1,118 @@
+Subject: ea-schwb-production Enterprise Archive Daily Health Checks From 2023-07-04 00:00:00 To 2023-07-04 23:59:59 EDT
+Body: 
+CSV/LDIF Import Status 
+
+File Name	Date Imported	Status	Import Type	Size (KB)	Participants Created	Participants Updated	Participant Groups Created	
+
+Searches Performed 
+
+Total number of searches run: 72	
+Total number of documents returned across all searches: 9189	
+
+Security Reporting
+
+
+Users Created
+
+User ID	Time	
+
+Role Changes
+
+User ID	New Role	
+
+Number of Failed Attempts
+
+User ID	Failed Attempts	
+
+Disposition
+
+Content Source	Network	Total Number of Disposed	
+exchange	journal	153	
+exchange	moxie chat	16	
+exchange	moxie email	5	
+exchange	mobileguard	2	
+lync	microsoftuc	15	
+
+Ingestion Queries
+
+
+Received Count
+
+Content Source	Network	Received Count	
+exchange	journal	1285931	
+exchange	salesforce email	19333	
+exchange	mobileguard	3551	
+exchange	livehelp	1301	
+msteamscc	msteams	88203	
+sharepointonline	sharepoint	4336	
+sfchatterrbs	salesforce chatter	35	
+sfchatterscrs	salesforce chatter	14	
+hearsayrelatetexts	hearsay sms text	12	
+sfchatteras	salesforce chatter	11	
+advicesuite	advice suite	6	
+kiteworks	kiteworks	2	
+webexteams3	webex teams	2	
+
+Archived Count
+
+Content Source	Network	Archived Count	
+exchange	journal	1265245	
+exchange	salesforce email	19384	
+exchange	mobileguard	3490	
+exchange	livehelp	1301	
+msteamscc	msteams	87959	
+sharepointonline	sharepoint	4299	
+sfchatterrbs	salesforce chatter	37	
+sfchatterscrs	salesforce chatter	15	
+sfchatteras	salesforce chatter	13	
+hearsayrelatetexts	hearsay sms text	12	
+bloombergmailcc	bloombergmail	9	
+advicesuite	advice suite	6	
+kiteworks	kiteworks	3	
+bloombergimcc	instantbloomberg	2	
+webexteams3	webex teams	2	
+
+Failed Count older than 24 hours
+
+Content Source	Network	Failed Count	
+
+Failed Count younger than 24 hours
+
+Content Source	Network	Failed Count	
+
+Exception Count
+
+Content Source	Network	Total Number of Exceptions	
+
+Exceptions
+
+Exceptions	Count	
+Payload size greater than 250GB 	0	
+Body Size above 60 MB 	0	
+Max single attachment exceeds 2GB 	0	
+Extracted file content above 100MB	0	
+Number of attachments exceeds 1000	0	
+Email larger than 250GB	0	
+
+Fatal Count
+
+Fatal Type 	New(1 day)	Less than 1 Week (2-7 days)	Over 1 Week (8-14 days)	Over 2 Weeks (15-21 days)	 Over 3 Weeks (22-28 days)	Over 4 Weeks (29+ days)	Total
+Fatal messages count 	0	0	0	0	0	845	845	
+
+Archived Raw Count
+
+Raw Type 	New(1 day)	Less than 1 Week (2-7 days)	Over 1 Week (8-14 days)	Over 2 Weeks (15-21 days)	 Over 3 Weeks (22-28 days)	Over 4 Weeks (29+ days)	Total
+EGW Raw EML	1	85	0	0	0	0	86	
+Alcatraz Raw XML	0	0	0	0	0	0	0	
+
+Exports
+
+
+Number of Current Exports Running - Total:0
+
+Total Number of Docs	Total Number of Successful Docs	Total Number of Failed Docs	Export Name	Creator	Created Time(EST)	End Time(EST)	Status	
+
+Number of Exports Run in Past 24 Hours:0
+
+Export Name	User ID	Output Format	Packaging Format	Start Time	End Time(EST)	Count	Size (Byte)	Status	
+ <https://u4657071.ct.sendgrid.net/wf/open?upn=7fSqXXDtwNMtdSKQXpclHeTe6K-2BRLXwBSbuCMHQjvSAXVOEfzJp8-2FdFmoEIoCGKhDUUoWajWl2aXFccimUVMniesVi-2FULb1BgLwD883uoHoR779HQCYu2wWg0pZV1vm-2FTSKHq3TnKAupaEePkP0ROFCtaUKGhDs4bTFww4MobRCf0rWLQpoKtLSZBgQwo0WuW3ietbB6Ep3m44oUw2Ra06hFhEY7K56OlNSqFd4Cw9Y-3D> 

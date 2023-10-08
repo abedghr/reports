@@ -1,0 +1,122 @@
+Subject: ea-schwb-production Enterprise Archive Daily Health Checks From 2023-05-31 00:00:00 To 2023-05-31 23:59:59 EDT
+Body: 
+CSV/LDIF Import Status 
+
+File Name	Date Imported	Status	Import Type	Size (KB)	Participants Created	Participants Updated	Participant Groups Created	
+SMARSHUsersTermedCorrections.csv	2023-05-31 22:20:02	Completed	IdentityImport	4,817,633	0	11349	0	
+20230530_213025.SmarshFM.csv	2023-05-31 22:29:03	Completed	IdentityImport	833,797	3	1409	0	
+20230530_213023.SmarshTerminatedUsers.csv	2023-05-31 22:30:39	Completed	IdentityImport	2,019,383	0	3043	0	
+20230530_213021.SmarshUsers.csv	2023-05-31 22:33:21	Completed	IdentityImport	40,168,394	85	47818	0	
+
+Searches Performed 
+
+Total number of searches run: 2592	
+Total number of documents returned across all searches: 107667843	
+
+Security Reporting
+
+
+Users Created
+
+User ID	Time	
+
+Role Changes
+
+User ID	New Role	
+
+Number of Failed Attempts
+
+User ID	Failed Attempts	
+
+Disposition
+
+Content Source	Network	Total Number of Disposed	
+
+Ingestion Queries
+
+
+Received Count
+
+Content Source	Network	Received Count	
+exchange	journal	7876272	
+exchange	salesforce email	116008	
+exchange	mobileguard	10844	
+exchange	livehelp	991	
+msteamscc	msteams	163331	
+sharepointonline	sharepoint	33048	
+bloombergmailcc	bloombergmail	10342	
+exodusapiv2	genesys chat	5176	
+bloombergimcc	instantbloomberg	2175	
+hearsayrelatetexts	hearsay sms text	268	
+advicesuite	advice suite	220	
+sfchatterrbs	salesforce chatter	215	
+kiteworks	kiteworks	128	
+sfchatteras	salesforce chatter	87	
+sfchatterscrs	salesforce chatter	40	
+sfchatterfd	salesforce chatter	2	
+
+Archived Count
+
+Content Source	Network	Archived Count	
+exchange	journal	7823643	
+exchange	salesforce email	114830	
+exchange	mobileguard	10794	
+exchange	livehelp	991	
+msteamscc	msteams	162405	
+sharepointonline	sharepoint	33064	
+bloombergmailcc	bloombergmail	10353	
+exodusapiv2	genesys chat	5071	
+exodusapiv2	genesys email	4	
+bloombergimcc	instantbloomberg	2174	
+hearsayrelatetexts	hearsay sms text	268	
+advicesuite	advice suite	219	
+sfchatterrbs	salesforce chatter	209	
+kiteworks	kiteworks	127	
+sfchatteras	salesforce chatter	87	
+sfchatterscrs	salesforce chatter	40	
+sfchatterfd	salesforce chatter	2	
+
+Failed Count older than 24 hours
+
+Content Source	Network	Failed Count	
+
+Failed Count younger than 24 hours
+
+Content Source	Network	Failed Count	
+
+Exception Count
+
+Content Source	Network	Total Number of Exceptions	
+
+Exceptions
+
+Exceptions	Count	
+Payload size greater than 250GB 	0	
+Body Size above 60 MB 	0	
+Max single attachment exceeds 2GB 	0	
+Extracted file content above 100MB	0	
+Number of attachments exceeds 1000	0	
+Email larger than 250GB	0	
+
+Fatal Count
+
+Fatal Type 	New(1 day)	Less than 1 Week (2-7 days)	Over 1 Week (8-14 days)	Over 2 Weeks (15-21 days)	 Over 3 Weeks (22-28 days)	Over 4 Weeks (29+ days)	Total
+Fatal messages count 	0	0	845	0	0	0	845	
+
+Archived Raw Count
+
+Raw Type 	New(1 day)	Less than 1 Week (2-7 days)	Over 1 Week (8-14 days)	Over 2 Weeks (15-21 days)	 Over 3 Weeks (22-28 days)	Over 4 Weeks (29+ days)	Total
+EGW Raw EML	0	0	0	0	0	0	0	
+Alcatraz Raw XML	0	0	0	0	0	0	0	
+
+Exports
+
+
+Number of Current Exports Running - Total:0
+
+Total Number of Docs	Total Number of Successful Docs	Total Number of Failed Docs	Export Name	Creator	Created Time(EST)	End Time(EST)	Status	
+
+Number of Exports Run in Past 24 Hours:0
+
+Export Name	User ID	Output Format	Packaging Format	Start Time	End Time(EST)	Count	Size (Byte)	Status	
+ <https://u4657071.ct.sendgrid.net/wf/open?upn=7fSqXXDtwNMtdSKQXpclHeTe6K-2BRLXwBSbuCMHQjvSD7L-2FwYjdMQXV7V0T55OBE9-2FNIJpEcOSWjoFudGFLykta-2FcCUm11nZWz2nOTrdyr5puXawehVr6-2BanqReXLPOazlzbgjhyCnsRtwbHH1tSb-2B7PrWCBOyJiEINbmq5-2BNpysP50-2B-2Ffk0Y1KUdstKStkp2791UtRUVm-2BogNfiDnNjMQ7YsiZ2plVJ6Na8wiPoj4vs-3D> 

@@ -1,0 +1,13 @@
+Date,Network,Number of messages ingested,Number of messages exported,Number of messages not exported,Number of backlog messages exported in the last 30 days,Number of messages not exported in the last 30 days,Email Sent Date
+29/09/2023,Salesforce    ,199,199,0,0,0,29/09/2023
+29/09/2023,Salesforce    ,199,199,0,0,23,29/09/2023
+29/09/2023,Salesforce    ,222,199,0,11,0,29/09/2023
+29/09/2023,Salesforce    ,135,199,0,0,0,29/09/2023
+29/09/2023,MSTeams    ,199,199,0,0,0,29/09/2023
+29/09/2023,MSTeams    ,199,199,0,0,23,29/09/2023
+29/09/2023,MSTeams    ,222,199,0,11,0,29/09/2023
+29/09/2023,MSTeams    ,135,199,0,0,0,29/09/2023
+29/09/2023,Sharepoint    ,199,199,0,0,0,29/09/2023
+29/09/2023,Sharepoint    ,199,199,0,0,23,29/09/2023
+29/09/2023,Sharepoint    ,222,199,0,11,0,29/09/2023
+29/09/2023,Sharepoint    ,135,199,0,0,0,29/09/2023

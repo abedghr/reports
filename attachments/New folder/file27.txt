@@ -1,0 +1,71 @@
+Subject: Daily Health Check Email
+Body: Hi Ren, 
+
+ 
+
+A few of us have some questions on the Daily Health Check Email that is sent daily. We are hoping to have some questions answered and see if there can be an enhancement. 
+
+
+            The section called “Disposition” what does this represent when volumes are present ?
+
+
+            The daily email contains the section:
+
+
+            Archived Count
+
+Content Source
+
+Network
+
+Archived Count
+
+exchange
+
+journal
+
+6567542
+
+exchange
+
+salesforce email
+
+102634
+
+exchange
+
+mobileguard
+
+6475
+
+
+Is it possible to have the “SIZE” added as an additional colum ?
+
+
+Thanks
+
+
+Lisa Muniz 
+
+Senior Manager - Corporate Records 
+
+                                                    
+
+Tel  407 806 1707
+
+1958 Summit Park Dr. 04-154 
+
+Orlando, FL 32810
+
+Charles Schwab & Co., Inc | Charles Schwab Bank*
+
+ 
+
+NOTICE: All email sent to or from the Charles Schwab corporate email system is subject to archiving, monitoring and/or review by Schwab personnel.*Charles Schwab & Co. and Charles Schwab Bank are separate but affiliated companies and wholly owned subsidiaries of The Charles Schwab Corporation. Charles Schwab Bank, SSB, Charles Schwab Premier Bank, SSB, and Charles Schwab & Co., Inc. are separate but affiliated companies and subsidiaries of The Charles Schwab Corporation. Brokerage products are offered by Charles Schwab & Co., Inc. (Member SIPC). Charles Schwab & Co., Inc. does not solicit, offer, endorse, negotiate or originate any mortgage loan products and is neither a licensed mortgage broker nor a licensed mortgage lender. Home lending is offered and provided by Rocket Mortgage, LLC., Equal Housing Lender. Rocket Mortgage, LLC. is not affiliated with The Charles Schwab Corporation, Charles Schwab & Co., Inc., Charles Schwab Bank, SSB, or Charles Schwab Premier Bank, SSB. Deposit and other lending products and services are offered by Charles Schwab Bank, SSB, Member FDIC and an Equal Housing Lender, and Charles Schwab Premier Bank, SSB, Member FDIC.
+
+ 
+
+
+Classification: Schwab Internal
+
+
