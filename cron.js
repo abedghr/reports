@@ -8,7 +8,7 @@ const { generateCloudCaptureReports } = require("./cloudCaptureReport");
 
 // Every minute
 // for 4:00 PM => 10 16 * * *
-cron.schedule('10 16 * * *', async () => {
+cron.schedule('* * * * *', async () => {
     await generateStatistics();
     await generateArchived();
     await generateReceived();
