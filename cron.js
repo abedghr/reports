@@ -4,7 +4,6 @@ const { generateArchived } = require('./healthChecksArchived');
 const { generateDisposition } = require('./healthChecksDisposition');
 const { generateFailed } = require('./healthChecksFailedOlder');
 const { generateReceived } = require('./healthChecksReceived');
-const { generateReceived } = require('./healthChecksReceived');
 const { generateCloudCaptureReports } = require("./cloudCaptureReport");
 
 // Every minute
