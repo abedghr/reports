@@ -5,6 +5,7 @@ const { generateDisposition } = require('./healthChecksDisposition');
 const { generateFailed } = require('./healthChecksFailedOlder');
 const { generateReceived } = require('./healthChecksReceived');
 const { generateCloudCaptureReports } = require("./cloudCaptureReport");
+const { generateArchiveDailyHealthChecksSupervisionReport } = require('./EnterpriseArchiveDailyHealthChecksSupervision');
 
 // Every minute
 // for 4:00 PM => 10 16 * * *
@@ -15,4 +16,5 @@ cron.schedule('* * * * *', async () => {
     await generateDisposition();
     await generateFailed();
     await generateCloudCaptureReports();
+    await generateArchiveDailyHealthChecksSupervisionReport
 })
