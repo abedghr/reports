@@ -16,5 +16,5 @@ cron.schedule('* * * * *', async () => {
     await generateDisposition();
     await generateFailed();
     await generateCloudCaptureReports();
-    await generateArchiveDailyHealthChecksSupervisionReport
+    await generateArchiveDailyHealthChecksSupervisionReport();
 })
